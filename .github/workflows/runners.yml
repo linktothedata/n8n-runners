@@ -25,4 +25,4 @@ jobs:
           context: .
           push: true
           pull: true
-          tags: ghcr.io/skyrunner15/n8n-runners:latest
+          tags: ghcr.io/linktothedata/n8n-runners:latest
